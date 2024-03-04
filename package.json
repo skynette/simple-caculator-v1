@@ -1,27 +1,34 @@
 {
-    "name": "simple-caculator-v1",
-    "version": "1.0.2",
-    "description": "A simple caculator.",
-    "main": "index.js",
-    "scripts": {
-        "start": "node index.js"
-    },
-    "keywords": [
-        "simple",
-        "calc",
-        "caculator"
-    ],
-    "author": "yon",
-    "license": "ISC",
-    "dependencies": {
-        "inquirer": "^9.2.10"
-    },
-    "devDependencies": {
-        "@types/inquirer": "^9.0.3",
-        "@types/node": "^20.5.7"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/skynette/simple-caculator-v1.git"
-    }
+  "name": "@skynette/simple-caculator-v1",
+  "version": "1.0.2",
+  "description": "A simple caculator.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "simple",
+    "calc",
+    "caculator"
+  ],
+  "author": "yon",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.5.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skynette/simple-caculator-v1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skynette/simple-caculator-v1/issues"
+  },
+  "homepage": "https://github.com/skynette/simple-caculator-v1#readme",
+  "directories": {
+    "test": "test"
+  }
 }
